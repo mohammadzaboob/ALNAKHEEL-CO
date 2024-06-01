@@ -1,0 +1,45 @@
+h2{
+	color:red;
+	font-weight:bold;
+	font-size:20pt;
+}
+ 
+h3{
+	color:red;
+	font-weight:bold;
+	font-size:20pt;
+
+}
+
+h4{
+        color:red;
+	font-weight:bold;
+	font-size:20pt;
+
+}
+
+h5{
+	color:red;
+	font-weight:bold;
+	font-size:20pt;
+
+
+}
+
+th{
+	color:black;
+	background-color:silver;
+	font-weight:bold;
+	font-size:20pt;
+
+}
+
+
+td{
+	color:red;
+	background-color:yellow;
+
+	font-weight:bold;
+	font-size:20pt;
+
+}
